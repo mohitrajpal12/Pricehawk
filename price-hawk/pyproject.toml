@@ -1,0 +1,12 @@
+[project]
+name = "price-hawk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai",
+    "python-dotenv",
+    "duckduckgo-search",
+    "crawl4ai",
+]
